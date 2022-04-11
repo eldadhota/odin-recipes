@@ -1,0 +1,27 @@
+.text {
+    text-align: center;
+    font-size: 50px;
+    margin: auto;
+    display:block;
+    color: yellowgreen;
+}
+
+.center {
+    display: block;
+    width: 50%;
+    height: 50%;
+    margin:auto;
+}
+
+
+.margh {
+    color: red;
+}
+
+.panc {
+    color:burlywood;
+}
+
+.center-text {
+    text-align: center;
+}
